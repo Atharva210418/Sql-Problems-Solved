@@ -1,0 +1,7 @@
+Write a query to REVOKE permission for select, drop table for the user.
+
+Solution-
+
+Revoke select, drop on
+TABLE_NAME FOR
+USER_NAME;
