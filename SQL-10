@@ -1,0 +1,8 @@
+Write a query to grant permission for select, drop the table by the user. 
+
+
+Solution- 
+
+Grant Select,Drop on
+TABLE_NAME to 
+USER_NAME;
